@@ -1,0 +1,15 @@
+.card-container{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;      
+    /*background-color: red;*/
+}
+
+md-card{
+    margin-left: 20%;
+    margin-top: 3%;
+    width: 90%;
+    background: white;
+}
+
