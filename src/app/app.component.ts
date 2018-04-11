@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import {MdCard} from '@angular/material';
 
 @Component({
   selector: 'app-root',
