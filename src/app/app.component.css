@@ -11,5 +11,6 @@ mat-card{
     margin-top: 3%;
     width: 90%;
     background: white;
+    overflow: hidden;
 }
 
